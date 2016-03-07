@@ -1,4 +1,3 @@
-
 CREATE TABLE IF NOT EXISTS `gogocms_essentials_countries` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `iso` char(2) NOT NULL,
